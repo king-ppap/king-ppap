@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Codewars](https://www.codewars.com/users/KingOnHuy/badges/micro)](https://www.codewars.com/users/KingOnHuy)
+[![Codewars](https://www.codewars.com/users/king-ppap/badges/micro)](https://www.codewars.com/users/king-ppap)
 
 <!--
 **king-ppap/king-ppap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
