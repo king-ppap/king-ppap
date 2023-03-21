@@ -1,5 +1,29 @@
 ## Hi there 🫥
 
+My name is Ponpawit Paoseng or just call me King
+
+I'm a Full stack developer․ @TheLivingOS
+
+Language˸ JS‚ TS‚ Python‚ ~Java‚ ~C++
+> I hated PHP
+
+Front-end:
+- VueJS
+- React
+- ReactNative
+
+Back-end:
+- Nodejs
+  - Express
+  - Nestjs
+- Python
+  - FastAPI
+  - Django REST
+
+SSR:
+- Nuxt 3
+- Django
+
 [![Linkedin](https://cdn.discordapp.com/attachments/319130498792161280/1087731400960131122/LI-In-Bug.png)](https://www.linkedin.com/in/ponpawit-paoseng/)
 [Linkedin](https://www.linkedin.com/in/ponpawit-paoseng/)
 
