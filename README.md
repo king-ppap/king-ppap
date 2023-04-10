@@ -8,7 +8,7 @@
 
 My name is Ponpawit Paoseng or just call me King
 
-I'm a Full stack developer․ @TheLivingOS
+I'm a Full stack developer․
 
 Language˸ Typescript, Javascript‚ Python‚ ~Java‚ ~C++
 > I hated PHP
