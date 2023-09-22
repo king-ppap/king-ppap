@@ -14,6 +14,7 @@ Language˸ Typescript, Javascript‚ Python‚ ~Java‚ ~C++
 > I hated PHP
 
 SSR:
+- Next
 - Nuxt 3
 - Django
 
