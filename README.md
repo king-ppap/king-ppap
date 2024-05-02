@@ -12,7 +12,8 @@ I'm a Full stack developer․
 
 ## Skill
 Language˸ Typescript, Javascript‚ Python‚ ~Java‚ ~C++
-> I hated PHP
+
+**I hated PHP**
 
 ### SSR:
 - Next
