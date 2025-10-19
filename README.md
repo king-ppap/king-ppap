@@ -7,9 +7,9 @@
 [Gitlab](https://gitlab.com/king-ppap) 
 [![Codewars](https://www.codewars.com/users/king-ppap/badges/micro)](https://www.codewars.com/users/king-ppap)
 
-My name is Ponpawit Paoseng or just call me King
+My name is Ponpawit P, or just call me King
 
-I'm a Full stack developer․
+I'm a full-stack developer․
 
 ## Skill
 Language˸ Typescript, Javascript‚ Python‚ ~Java‚ ~C++
@@ -34,7 +34,7 @@ Language˸ Typescript, Javascript‚ Python‚ ~Java‚ ~C++
   - FastAPI
   - Django REST
 
-
+If you click my domain and you see nothing, don't worry, I made it redirect to here
 
 <!--
 **king-ppap/king-ppap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
