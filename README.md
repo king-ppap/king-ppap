@@ -9,7 +9,7 @@
 
 My name is Ponpawit P, or just call me King
 
-I'm a full-stack developer․
+I'm a full-stack developer that can do a little bit of DevOps․
 
 ## Skill
 Language˸ Typescript, Javascript‚ Python‚ ~Java‚ ~C++
@@ -33,6 +33,14 @@ Language˸ Typescript, Javascript‚ Python‚ ~Java‚ ~C++
 - Python
   - FastAPI
   - Django REST
+
+### As a DevOps
+- Cloudflare, Zero trust
+- GCP
+- AWS, not much
+- GitHub Action
+- Docker
+- Git workflow
 
 If you click my domain and you see nothing, don't worry, I made it redirect to here
 
